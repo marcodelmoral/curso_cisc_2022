@@ -1,2 +1,2 @@
-# curso_cisc_2022
+# Curso CISC 2022
 Repositorio del curso
