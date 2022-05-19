@@ -1,5 +1,6 @@
 smear2005/
 smear2005.zip
+*.vscode/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
